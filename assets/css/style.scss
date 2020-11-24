@@ -7,12 +7,18 @@
 //   display: none !important;
 // }
 
-// .btn {
-//   display: none !important;
-// }
+.btn {
+  // display: none !important;
+  // display: test
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
 
 .main-content {
   h2 {
+   color: #CC6600;
+ }
+  h3 {
    color: #CC6600;
  }
 }

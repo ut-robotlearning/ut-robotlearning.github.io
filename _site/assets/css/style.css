@@ -318,6 +318,9 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
+.btn { margin-top: 25px; margin-bottom: -25px; }
+
 .main-content h2 { color: #CC6600; }
+.main-content h3 { color: #CC6600; }
 
 .page-header { background-image: linear-gradient(120deg, #994C00, #CC6600); }
