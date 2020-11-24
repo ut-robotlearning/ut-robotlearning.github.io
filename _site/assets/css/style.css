@@ -317,3 +317,9 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.btn { display: none !important; }
+
+.main-content h2 { color: #CC6600; }
+
+.page-header { background-image: linear-gradient(120deg, #994C00, #CC6600); }

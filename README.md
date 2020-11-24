@@ -8,9 +8,8 @@ Each week, we meet for one hour to discuss one paper in depth.
 One student will lead each meeting with a presentation on the paper.
 Meetings will be held on Zoom and the exact time is TBD.
 
-We focus on the latest works in computer vision, imitation learning, reinforcement learning, and control,
-that are leading to advances in robotics and embodied AI.
-A few of the conferences that we follow particularly closely are
+We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
+We particularly focus on papers from 
 [CoRL](https://www.robot-learning.org/), [RSS](https://roboticsconference.org/), and [CVPR](http://cvpr2020.thecvf.com/).
 
 ## How to Join
