@@ -23,24 +23,27 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 TBD
 
 ### Fall 2020
+``[11/19/20]``  
 **Learning Invariant Representations for Reinforcement Learning without Reconstruction**  
 Amy Zhang\*, Rowan McAllister\*, Roberto Calandra, Yarin Gal, Sergey Levine  
 arXiv preprint 2020  
-Presenter: Jerry  
+Presenter: Jerry Lin  
 [[Paper]](https://arxiv.org/abs/2006.10742)
 [[Project]](https://sites.google.com/view/deepbisim4control)
 
+``[11/12/20]``  
 **Accelerating Reinforcement Learning with Learned Skill Priors**  
 Karl Pertsch, Youngwoon Lee, Joseph J. Lim  
 CoRL 2020  
-Presenter: Soroush  
+Presenter: Soroush Nasiriany  
 [[Paper]](https://arxiv.org/abs/2010.11944)
 [[Project]](https://clvrai.github.io/spirl/)
 [[Slides]](https://docs.google.com/presentation/d/1lsEa7M3EWZBh0RLZkEFCCdlyx281NHRSjNys37qB7PM/edit?usp=sharing)
 
+``[11/5/20]``  
 **Learning an Optimal Sampling Distribution for Efficient Motion Planning**  
 Richard Cheng, Krishna Shankar, Joel W. Burdick  
 IROS 2020  
-Presenter: Mingyo  
+Presenter: Mingyo Seo  
 [[Paper]](http://ras.papercept.net/images/temp/IROS/files/1807.pdf)
 [[Slides]](https://drive.google.com/file/d/1FUtA_GM6vTdnqZfEwHkqTwoMmnITp-iP/view?usp=sharing)
