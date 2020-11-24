@@ -9,7 +9,7 @@ One student will lead each meeting with a presentation on the paper.
 Meetings will be held on Zoom and the exact time is TBD.
 
 We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
-We particularly focus on papers from
+We survey papers from a broad set of conferences, including by not limited to
 [CoRL](https://www.robot-learning.org/), [RSS](https://roboticsconference.org/), and [CVPR](http://cvpr2020.thecvf.com/).
 
 ## How to Join
