@@ -23,6 +23,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 TBD
 
 ### Fall 2020
+``[12/3/20]``  
+**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**  
+Ben Mildenhall\*, Pratul P. Srinivasan\*, Matthew Tancik\*, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng  
+ECCV 2020  
+Presenter: Zhenyu Jiang  
+[[Paper]](https://arxiv.org/abs/2003.08934)
+[[Project]](https://www.matthewtancik.com/nerf)
+[[Slides]](https://drive.google.com/file/d/1ozPVbhBSsMhFq6_9-oDf_njmp1m0JKvt/view?usp=sharing)
+
 ``[11/19/20]``  
 **Learning Invariant Representations for Reinforcement Learning without Reconstruction**  
 Amy Zhang\*, Rowan McAllister\*, Roberto Calandra, Yarin Gal, Sergey Levine  
