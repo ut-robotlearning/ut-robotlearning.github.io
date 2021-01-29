@@ -42,7 +42,7 @@ Presenter: Zhenyu Jiang
 ``[11/19/20]``  
 **Learning Invariant Representations for Reinforcement Learning without Reconstruction**  
 Amy Zhang\*, Rowan McAllister\*, Roberto Calandra, Yarin Gal, Sergey Levine  
-ICLR 2021
+ICLR 2021  
 Presenter: Jerry Lin  
 [[Paper]](https://arxiv.org/abs/2006.10742)
 [[Project]](https://sites.google.com/view/deepbisim4control)
