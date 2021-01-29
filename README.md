@@ -20,7 +20,14 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
-TBD
+``[1/28/21]``  
+**RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real**  
+Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari  
+CVPR 2020  
+Presenter: Soroush Nasiriany  
+[[Paper]](https://arxiv.org/abs/2006.09001)
+[[Video]](https://youtu.be/uL9ni2tpZnU)
+[[Slides]](https://drive.google.com/file/d/1UcYf10ZUYRvAYA7wAUXawpuU96iyA-ap/view?usp=sharing)
 
 ### Fall 2020
 ``[12/3/20]``  
@@ -35,7 +42,7 @@ Presenter: Zhenyu Jiang
 ``[11/19/20]``  
 **Learning Invariant Representations for Reinforcement Learning without Reconstruction**  
 Amy Zhang\*, Rowan McAllister\*, Roberto Calandra, Yarin Gal, Sergey Levine  
-arXiv preprint 2020  
+ICLR 2021
 Presenter: Jerry Lin  
 [[Paper]](https://arxiv.org/abs/2006.10742)
 [[Project]](https://sites.google.com/view/deepbisim4control)
