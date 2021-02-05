@@ -4,9 +4,8 @@ This group is run by the [Robot Perception and Learning Lab](https://www.cs.utex
 **This group will commence in Spring 2021, and will be accessible to all UT Austin students.**
 
 ## Logistics
-Each week, we meet for one hour to discuss one paper in depth.
+Each week, we meet for one hour on Zoom to discuss one paper in depth.
 One student will lead each meeting with a presentation on the paper.
-Meetings will be held on Zoom and the exact time is TBD.
 
 We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
 We survey papers from a broad set of conferences, including (but not limited to)
