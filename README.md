@@ -20,6 +20,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[2/5/21]``  
+**Where2Act: From Pixels to Actions for Articulated 3D Objects**  
+Kaichun Mo, Leonidas Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani   
+arXiv preprint 2021  
+Presenter: Zhenyu Jiang  
+[[Paper]](https://arxiv.org/abs/2101.02692)
+[[Video]](https://cs.stanford.edu/~kaichun/where2act/)
+[[Slides]](https://drive.google.com/file/d/1AEaS24hwPnYxfiVqHQRv1TbYyg_qTo7G/view?usp=sharing)
+
 ``[1/28/21]``  
 **RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real**  
 Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari  
