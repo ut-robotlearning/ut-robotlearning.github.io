@@ -19,7 +19,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
-``[2/5/21]``  
+``[2/4/21]``  
 **Where2Act: From Pixels to Actions for Articulated 3D Objects**  
 Kaichun Mo, Leonidas Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani   
 arXiv preprint 2021  
