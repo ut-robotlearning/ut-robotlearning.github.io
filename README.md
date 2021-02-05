@@ -26,7 +26,7 @@ Kaichun Mo, Leonidas Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani
 arXiv preprint 2021  
 Presenter: Zhenyu Jiang  
 [[Paper]](https://arxiv.org/abs/2101.02692)
-[[Video]](https://cs.stanford.edu/~kaichun/where2act/)
+[[Project]](https://cs.stanford.edu/~kaichun/where2act/)
 [[Slides]](https://drive.google.com/file/d/1AEaS24hwPnYxfiVqHQRv1TbYyg_qTo7G/view?usp=sharing)
 
 ``[1/28/21]``  
