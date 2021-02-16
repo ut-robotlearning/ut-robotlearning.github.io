@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[2/11/21]``  
+**Constructing Symbolic Representations for High-Level Planning**  
+George Konidaris, Leslie Pack Kaelbling, Tomás Lozano-Pérez   
+AAAI 2014  
+Presenter: Yifeng Zhu  
+[[Paper]](https://users.cs.duke.edu/~gdk/pubs/orig_sym_aaai.pdf)
+[[Video]](https://youtu.be/lY4PKBqp9ZM)
+[[Slides]](https://docs.google.com/presentation/d/1r9_izCVJbCKBS1a8MHetweFH0FfWED3MTLn7UY2Lz0M/edit?usp=sharing)
+
 ``[2/4/21]``  
 **Where2Act: From Pixels to Actions for Articulated 3D Objects**  
 Kaichun Mo, Leonidas Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani   
