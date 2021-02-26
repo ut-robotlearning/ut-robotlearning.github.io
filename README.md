@@ -23,7 +23,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 **Parrot: Data-Driven Behavioral Priors for Reinforcement Learning**  
 Avi Singh\*, Huihan Liu\*, Gaoyue Zhou, Albert Yu, Nicholas Rhinehart, Sergey Levine   
 ICLR 2021  
-Presenter: Mohan Kumar Srirana  
+Presenter: Mohan Kumar Sriram  
 [[Paper]](https://arxiv.org/abs/2011.10024)
 [[Project]](https://sites.google.com/view/parrot-rl)
 [[Slides]](https://drive.google.com/file/d/1kw-GVTWV0pg5WEtfE6KPkUn7zttHnNMB/view?usp=sharing)
