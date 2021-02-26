@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[2/25/21]``  
+**Parrot: Data-Driven Behavioral Priors for Reinforcement Learning**  
+Avi Singh\*, Huihan Liu\*, Gaoyue Zhou, Albert Yu, Nicholas Rhinehart, Sergey Levine   
+ICLR 2021  
+Presenter: Mohan Kumar Srirana  
+[[Paper]](https://arxiv.org/abs/2011.10024)
+[[Project]](https://sites.google.com/view/parrot-rl)
+[[Slides]](https://drive.google.com/file/d/1kw-GVTWV0pg5WEtfE6KPkUn7zttHnNMB/view?usp=sharing)
+
 ``[2/11/21]``  
 **Constructing Symbolic Representations for High-Level Planning**  
 George Konidaris, Leslie Pack Kaelbling, Tomás Lozano-Pérez   
