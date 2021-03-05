@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[3/4/21]``  
+**Semantic Visual Navigation by Watching YouTube Videos**  
+Matthew Chang, Arjun Gupta, Saurabh Gupta   
+NeurIPS 2020  
+Presenter: Jerry Lin  
+[[Paper]](https://arxiv.org/abs/2006.10034)
+[[Project]](https://matthewchang.github.io/value-learning-from-videos/)
+[[Slides]](https://drive.google.com/file/d/1CKz3bWsx3_zziH8lYVMBJ6D6nqGscKeo/view?usp=sharing)
+
 ``[2/25/21]``  
 **Parrot: Data-Driven Behavioral Priors for Reinforcement Learning**  
 Avi Singh\*, Huihan Liu\*, Gaoyue Zhou, Albert Yu, Nicholas Rhinehart, Sergey Levine   
