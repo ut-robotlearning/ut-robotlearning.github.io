@@ -1,7 +1,7 @@
 ## About
 The UT Robot Learning Reading Group meets weekly to discuss the latest papers in robot learning.
 This group is run by the [Robot Perception and Learning Lab](https://www.cs.utexas.edu/~yukez/lab/) at [UT Austin](https://www.utexas.edu/).
-**This group will commence in Spring 2021, and will be accessible to all UT Austin students.**
+This group is accessible to all UT Austin students.
 
 ## Logistics
 Each week, we meet for one hour on Zoom to discuss one paper in depth.
