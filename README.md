@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[3/11/21]``  
+**Stein Variational Model Predictive Control**  
+Alexander Lambert, Adam Fishman, Dieter Fox, Byron Boots, Fabio Ramos  
+CoRL 2020  
+Presenter: Mingyo Seo  
+[[Paper]](https://arxiv.org/abs/2011.07641)
+[[Video]](https://youtu.be/kGDO2e_qiyI)
+[[Slides]](https://drive.google.com/file/d/1s0kmxV7mPiYwdV4XaAF64V77kcCoV0P2/view?usp=sharing)
+
 ``[3/4/21]``  
 **Semantic Visual Navigation by Watching YouTube Videos**  
 Matthew Chang, Arjun Gupta, Saurabh Gupta   
