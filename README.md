@@ -19,6 +19,14 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[3/25/21]``  
+**Point Transformer**  
+Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun  
+ArXiv 2020  
+Presenter: Zhenyu Jiang  
+[[Paper]](https://arxiv.org/abs/2012.09164)
+[[Slides]](https://drive.google.com/file/d/1FwjiJc7KJUo1g2w46kApfFV5mTUly4Bv/view?usp=sharing)
+
 ``[3/11/21]``  
 **Stein Variational Model Predictive Control**  
 Alexander Lambert, Adam Fishman, Dieter Fox, Byron Boots, Fabio Ramos  
