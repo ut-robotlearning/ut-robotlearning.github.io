@@ -28,6 +28,7 @@ Presenter: Dian Chen
 [[Project]](https://ben-eysenbach.github.io/rce/)
 [[Slides]](https://drive.google.com/file/d/1jCK0TEy2K27SHDQcRupw9c9LijGjOqFt/view?usp=sharing)
 
+``[3/25/21]``  
 **Point Transformer**  
 Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun  
 ArXiv 2020  
