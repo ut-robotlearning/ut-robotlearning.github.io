@@ -19,7 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
-``[3/25/21]``  
+``[4/1/21]``  
+**Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification**  
+Benjamin Eysenbach, Sergey Levine, Ruslan Salakhutdinov  
+ArXiv 2021  
+Presenter: Dian Chen  
+[[Paper]](https://arxiv.org/abs/2103.12656)
+[[Project]](https://ben-eysenbach.github.io/rce/)
+[[Slides]](https://drive.google.com/file/d/1jCK0TEy2K27SHDQcRupw9c9LijGjOqFt/view?usp=sharing)
+
 **Point Transformer**  
 Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun  
 ArXiv 2020  
