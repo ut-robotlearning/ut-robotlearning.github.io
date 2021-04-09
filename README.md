@@ -23,14 +23,14 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 **Unsupervised Monocular Depth Learning in Dynamic Scenes**  
 Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova  
 CoRL 2020  
-Presenter: Amanda Adkins
+Presenter: Amanda Adkins  
 [[Paper]](https://arxiv.org/abs/2010.16404)
 [[Slides]](https://docs.google.com/presentation/d/1svVEFZ2STZvZjcFR4ncD6Rxa-jDiDW2ADUugUPvWAd4/edit)
 
 ``[4/1/21]``  
 **Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification**  
 Benjamin Eysenbach, Sergey Levine, Ruslan Salakhutdinov  
-ArXiv 2021  
+arXiv 2021  
 Presenter: Dian Chen  
 [[Paper]](https://arxiv.org/abs/2103.12656)
 [[Project]](https://ben-eysenbach.github.io/rce/)
@@ -39,7 +39,7 @@ Presenter: Dian Chen
 ``[3/25/21]``  
 **Point Transformer**  
 Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun  
-ArXiv 2020  
+arXiv 2020  
 Presenter: Zhenyu Jiang  
 [[Paper]](https://arxiv.org/abs/2012.09164)
 [[Slides]](https://drive.google.com/file/d/1FwjiJc7KJUo1g2w46kApfFV5mTUly4Bv/view?usp=sharing)
@@ -83,7 +83,7 @@ Presenter: Yifeng Zhu
 ``[2/4/21]``  
 **Where2Act: From Pixels to Actions for Articulated 3D Objects**  
 Kaichun Mo, Leonidas Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani   
-arXiv preprint 2021  
+arXiv 2021  
 Presenter: Zhenyu Jiang  
 [[Paper]](https://arxiv.org/abs/2101.02692)
 [[Project]](https://cs.stanford.edu/~kaichun/where2act/)
