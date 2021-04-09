@@ -19,6 +19,14 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[4/8/21]``  
+**Unsupervised Monocular Depth Learning in Dynamic Scenes**  
+Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova  
+CoRL 2020  
+Presenter: Amanda Adkins
+[[Paper]](https://arxiv.org/abs/2010.16404)
+[[Slides]](https://docs.google.com/presentation/d/1svVEFZ2STZvZjcFR4ncD6Rxa-jDiDW2ADUugUPvWAd4/edit)
+
 ``[4/1/21]``  
 **Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification**  
 Benjamin Eysenbach, Sergey Levine, Ruslan Salakhutdinov  
