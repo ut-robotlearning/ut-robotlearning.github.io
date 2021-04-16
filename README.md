@@ -19,6 +19,14 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[4/15/21]``  
+**3D Shape Reconstruction from Vision and Touch**  
+Edward J. Smith, Roberto Calandra, Adriana Romero, Georgia Gkioxari, David Meger, Jitendra Malik, Michal Drozdzal  
+NeurIPS 2020  
+Presenter: Priyanka Mandikal  
+[[Paper]](https://arxiv.org/abs/2007.03778)
+[[Slides]](https://docs.google.com/presentation/d/1vvHX_D_NT6NSNwcdskG9uVBejZjn-o4YmNh1b5zpjEg/edit?usp=sharing)
+
 ``[4/8/21]``  
 **Unsupervised Monocular Depth Learning in Dynamic Scenes**  
 Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova  
