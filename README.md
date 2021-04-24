@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[4/22/21]``  
+**Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos**  
+Annie S. Chen, Suraj Nair, Chelsea Finn  
+arXiv 2021  
+Presenter: Sagnik Majumder  
+[[Paper]](https://arxiv.org/abs/2103.16817)
+[[Project]](https://sites.google.com/view/dvd-human-videos)
+[[Slides]](https://drive.google.com/file/d/1a-5JR_ZFTno6D3w1PYr48vmvCHngyiCK/view?usp=sharing)
+
 ``[4/15/21]``  
 **3D Shape Reconstruction from Vision and Touch**  
 Edward J. Smith, Roberto Calandra, Adriana Romero, Georgia Gkioxari, David Meger, Jitendra Malik, Michal Drozdzal  
