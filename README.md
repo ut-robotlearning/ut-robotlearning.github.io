@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[4/29/21]``  
+**Robust Policies via Mid-Level Visual Representations: An Experimental Study in Manipulation and Navigation**  
+Bryan Chen\*, Alexander Sax\*, Gene Lewis, Iro Armeni, Silvio Savarese, Amir Zamir, Jitendra Malik, Lerrel Pinto  
+CoRL 2020  
+Presenter: Soroush Nasiriany  
+[[Paper]](https://arxiv.org/abs/2011.06698)
+[[Project]](http://midlevel.berkeley.edu/)
+[[Slides]](https://drive.google.com/file/d/1Yob8fzXoNC-TKDoJlUj7nPbJn742kGBA/view?usp=sharing)
+
 ``[4/22/21]``  
 **Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos**  
 Annie S. Chen, Suraj Nair, Chelsea Finn  
