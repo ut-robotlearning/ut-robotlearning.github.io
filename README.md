@@ -19,6 +19,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2021
+``[5/6/21]``  
+**Robustness via Cross-Domain Ensembles**  
+Teresa Yeo\*, Oğuzhan Fatih Kar\*, Amir Zamir  
+arXiv 2021  
+Presenter: Jeffrey Zhang  
+[[Paper]](https://arxiv.org/abs/2103.10919)
+[[Project]](https://crossdomain-ensembles.epfl.ch/)
+[[Slides]](https://drive.google.com/file/d/1XXjQtAUUXu7EhL88fOMLgz6-YcEb-Pux/view?usp=sharing)
+
 ``[4/29/21]``  
 **Robust Policies via Mid-Level Visual Representations: An Experimental Study in Manipulation and Navigation**  
 Bryan Chen\*, Alexander Sax\*, Gene Lewis, Iro Armeni, Silvio Savarese, Amir Zamir, Jitendra Malik, Lerrel Pinto  
