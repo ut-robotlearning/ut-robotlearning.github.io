@@ -1,9 +1,18 @@
 ## About
-The UT Robot Learning Reading Group meets weekly to discuss the latest papers in robot learning.
+The UT Robot Learning Reading Group meets discuss the latest papers in robot learning.
 This group is run by the [Robot Perception and Learning Lab](https://www.cs.utexas.edu/~yukez/lab/) at [UT Austin](https://www.utexas.edu/).
-This group is accessible to all UT Austin students.
 
-## Logistics
+We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
+We survey papers from a broad set of conferences, including (but not limited to)
+[CoRL](https://www.robot-learning.org/), [RSS](https://roboticsconference.org/), and [CVPR](http://cvpr2020.thecvf.com/).
+
+## Logistics (Fall 2021)
+This semester we are hosting long-form tutorial-style sessions on various topics.
+**Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.**
+
+<!-- This group is accessible to all UT Austin students. -->
+
+<!-- ## Logistics
 Each week, we meet for one hour on Zoom to discuss one paper in depth.
 One student will lead each meeting with a presentation on the paper.
 
@@ -14,9 +23,15 @@ We survey papers from a broad set of conferences, including (but not limited to)
 ## How to Join
 This group is currently maintained by [Soroush Nasiriany](http://snasiriany.me/).
 **If you are interested in joining the reading group:**
-please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list.
+please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list. -->
 
 ## Reading list
+
+### Fall 2021
+``[9/17/21]``  
+**Implicit Neural Representations**  
+Presenter: Zhenyu Jiang  
+[[Slides]](https://docs.google.com/presentation/d/1EWfQQrLi4uHaWhTD2dSuHGTVotiNL3sT/edit?usp=sharing&ouid=112325389102986733865&rtpof=true&sd=true)
 
 ### Spring 2021
 ``[5/6/21]``  
