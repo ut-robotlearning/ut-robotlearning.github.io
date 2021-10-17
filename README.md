@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2021
+``[10/13/21]``  
+**Human-in-the-Loop Robot Learning**  
+Presenter: Huihan Liu  
+[[Slides]](https://docs.google.com/presentation/d/1WRd5I0WFED65TbswsFOdKPuEUwJsYvHx/edit?usp=sharing&ouid=112325389102986733865&rtpof=true&sd=true)
+
 ``[9/17/21]``  
 **Implicit Neural Representations**  
 Presenter: Zhenyu Jiang  
