@@ -1,6 +1,6 @@
 ## About
 The UT Robot Learning Reading Group meets to discuss the latest papers in robot learning.
-This group is run by the [Robot Perception and Learning Lab](https://www.cs.utexas.edu/~yukez/lab/) at [UT Austin](https://www.utexas.edu/).
+This group is run by the [Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/) at [UT Austin](https://www.utexas.edu/).
 
 We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
 We survey papers from a broad set of conferences, including (but not limited to)
