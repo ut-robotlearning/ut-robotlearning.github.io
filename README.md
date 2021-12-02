@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2021
+``[2021.12.01]``  
+**Autonomous Driving**  
+Presenter: Jerry Lin  
+[[Slides]](https://drive.google.com/file/d/1hRibIxnx1Aas9pBm26V6XT73QRj0bZOd/view?usp=sharing)
+
 ``[2021.11.03]``  
 **Offline Reinforcement Learning for Robotics**  
 Presenter: Soroush Nasiriany  
