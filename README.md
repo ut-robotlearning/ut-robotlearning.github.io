@@ -6,7 +6,7 @@ We follow the latest papers in robotics and embodied AI, spanning topics such as
 We survey papers from a broad set of conferences, including (but not limited to)
 [CoRL](https://www.robot-learning.org/), [RSS](https://roboticsconference.org/), and [CVPR](http://cvpr2020.thecvf.com/).
 
-## Logistics (Fall 2021)
+## Logistics (Spring 2022)
 This semester we are hosting long-form tutorial-style sessions on various topics.
 
 **Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.**
@@ -27,6 +27,12 @@ This group is currently maintained by [Soroush Nasiriany](http://snasiriany.me/)
 please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list. -->
 
 ## Reading list
+
+### Spring 2022
+``[2022.02.17]``  
+**Hand-Object Interaction**  
+Presenter: Hanwen Jiang  
+[[Slides]](https://docs.google.com/presentation/d/17MELY2tRxyywTXekUBrheOLl8vRz1HNCKtzD4wPxyXY/edit?usp=sharing)
 
 ### Fall 2021
 ``[2021.12.01]``  
