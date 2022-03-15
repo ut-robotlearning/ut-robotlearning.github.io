@@ -4,7 +4,7 @@ This group is run by the [Robot Perception and Learning Lab](https://rpl.cs.utex
 
 We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
 We survey papers from a broad set of conferences, including (but not limited to)
-[CoRL](https://www.robot-learning.org/), [RSS](https://roboticsconference.org/), and [CVPR](http://cvpr2020.thecvf.com/).
+CoRL, RSS, and CVPR.
 
 ## Logistics (Spring 2022)
 This semester we are hosting long-form tutorial-style sessions on various topics.
@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2022
+``[2022.03.10]``  
+**Transformers**  
+Presenter: Yifeng Zhu  
+[[Slides]](https://docs.google.com/presentation/d/157I4BlBWhXDrdSJ5I-f_W6adGYDiz6B_/edit?usp=sharing&ouid=112325389102986733865&rtpof=true&sd=true)
+
 ``[2022.02.17]``  
 **Hand-Object Interaction**  
 Presenter: Hanwen Jiang  
