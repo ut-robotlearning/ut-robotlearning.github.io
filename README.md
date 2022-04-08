@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2022
+``[2022.03.31]``  
+**Legged Locomotion**  
+Presenter: Mingyo Seo  
+[[Slides]](https://drive.google.com/file/d/11hoY0_unBAuytUOex7_u9Mil3SN8ysp-/view?usp=sharing)
+
 ``[2022.03.10]``  
 **Transformers**  
 Presenter: Yifeng Zhu  
