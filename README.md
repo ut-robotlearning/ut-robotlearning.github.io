@@ -6,7 +6,7 @@ We follow the latest papers in robotics and embodied AI, spanning topics such as
 We survey papers from a broad set of conferences, including (but not limited to)
 CoRL, RSS, and CVPR.
 
-## Logistics (Spring 2022)
+## Logistics (Fall 2022)
 This semester we are hosting long-form tutorial-style sessions on various topics.
 
 **Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.**
@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2022
+``[2022.04.08]``  
+**Foundation Models for Robotics**  
+Presenter: Soroush Nasiriany  
+[[Slides]](https://docs.google.com/presentation/d/1v2MwJ70KN2Hdsh7S3F414T_AUkrntzkW/edit?usp=sharing&ouid=112325389102986733865&rtpof=true&sd=true)
+
 ``[2022.03.31]``  
 **Legged Locomotion**  
 Presenter: Mingyo Seo  
