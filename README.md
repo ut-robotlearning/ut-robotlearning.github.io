@@ -28,6 +28,12 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ## Reading list
 
+### Fall 2022
+``[2022.09.09]``  
+**Domain Adaptation and Robot Learning**  
+Presenter: Rutav Shah  
+[[Slides]](https://docs.google.com/presentation/d/1GVvJr9U5xJozyfkioXg1iOqrYYNQAbOvcQus0bC-wko/edit?usp=sharing)  
+
 ### Spring 2022
 ``[2022.04.08]``  
 **Foundation Models for Robotics**  
