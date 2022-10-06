@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2022
+``[2022.09.30]``  
+**Recent Advances in Visual Language Models**  
+Presenter: Yue Zhao  
+[[Slides]](https://docs.google.com/presentation/d/1N_IPqjIO50StQlJU6DEMiRTnk_FdDHiVhzjI2YKDDSM/edit?usp=sharing)  
+
 ``[2022.09.09]``  
 **Domain Adaptation and Robot Learning**  
 Presenter: Rutav Shah  
