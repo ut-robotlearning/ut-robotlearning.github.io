@@ -29,6 +29,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2022
+``[2022.11.18]``  
+**Diffusion Models**  
+Presenter: Zhenyu Jiang  
+[[Slides]](https://drive.google.com/file/d/1YnUMQV3jLvfaf8w6g62zlWwO08dHd66c/view?usp=share_link)
+
 ``[2022.10.21]``  
 **Survey of Goal-Conditioned and Upside-Down RL**  
 Presenter: Jake Grigsby  
