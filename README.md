@@ -29,6 +29,12 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2022
+
+``[2022.12.09]``  
+**Runtime Monitoring for Safe Learning and Deployment**  
+Presenter: Huihan Liu  
+[[Slides]](https://drive.google.com/file/d/1DHwtxvkavTHpcMtUnuVf4TdAtUkUAuAx/view?usp=share_link)
+
 ``[2022.11.18]``  
 **Diffusion Models**  
 Presenter: Zhenyu Jiang  
