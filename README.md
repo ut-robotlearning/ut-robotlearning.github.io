@@ -6,8 +6,8 @@ We follow the latest papers in robotics and embodied AI, spanning topics such as
 We survey papers from a broad set of conferences, including (but not limited to)
 CoRL, RSS, and CVPR.
 
-## Logistics (Fall 2022)
-This semester we are hosting long-form tutorial-style sessions on various topics.
+<!-- ## Logistics (Fall 2022) -->
+<!-- This semester we are hosting long-form tutorial-style sessions on various topics. -->
 
 **Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.**
 
@@ -27,6 +27,13 @@ This group is currently maintained by [Soroush Nasiriany](http://snasiriany.me/)
 please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list. -->
 
 ## Reading list
+
+### Spring 2023
+
+``[2023.02.11]``  
+**Synthesizing Physical Character-Scene Interactions**  
+Presenter: Hanwen Jiang  
+[[Slides]](https://docs.google.com/presentation/d/1bSESYXYSSzyN1G6PqoeaP6O-aIUrxdIk/edit?usp=share_link&ouid=110774428209700992721&rtpof=true&sd=true)
 
 ### Fall 2022
 
