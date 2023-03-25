@@ -30,6 +30,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ### Spring 2023
 
+``[2023.03.24]``  
+**RT-1: Robotics Transformer for Real-World Control at Scale**  
+Presenter: Rutav Shah  
+[[Slides]](https://docs.google.com/presentation/d/1LuUA_GY8S0cpPssHTVa5gOW4zQ0T7Wkj/edit?usp=share_link&ouid=110774428209700992721&rtpof=true&sd=true)
+
 ``[2023.03.02]``  
 **Behavior Transformers: Cloning $k$ modes with one stone**  
 Presenter: Soroush Nasiriany  
