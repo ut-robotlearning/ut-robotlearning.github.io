@@ -30,6 +30,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ### Spring 2023
 
+``[2023.04.21]``  
+**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**  
+Presenter: Mingyo Seo  
+[[Slides]](https://docs.google.com/presentation/d/1DtvMJ_K9SBwRhhiG856ryWh4gd6kDdhm/edit?usp=share_link&ouid=110774428209700992721&rtpof=true&sd=true)
+
 ``[2023.03.24]``  
 **RT-1: Robotics Transformer for Real-World Control at Scale**  
 Presenter: Rutav Shah  
