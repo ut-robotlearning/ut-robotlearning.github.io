@@ -1,15 +1,15 @@
 ## About
 The UT Robot Learning Reading Group meets to discuss the latest papers in robot learning.
-This group is run by the [Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/) at [UT Austin](https://www.utexas.edu/).
+This group is run by the [Robot Perception and Learning Lab (RPL)](https://rpl.cs.utexas.edu/) and [Autonomous Mobile Robotics Laboratory (AMRL)](https://amrl.cs.utexas.edu) at [UT Austin](https://www.utexas.edu/).
 
-We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, and control.
+We follow the latest papers in robotics and embodied AI, spanning topics such as computer vision, reinforcement learning, neuro-symbolic AI, foundation models, and control.
 We survey papers from a broad set of conferences, including (but not limited to)
 CoRL, RSS, and CVPR.
 
 <!-- ## Logistics (Fall 2022) -->
 <!-- This semester we are hosting long-form tutorial-style sessions on various topics. -->
 
-**Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.**
+<!-- **Attendance is currently closed to the public, but we publicly share all presentation materials on this webpage.** -->
 
 <!-- This group is accessible to all UT Austin students. -->
 
