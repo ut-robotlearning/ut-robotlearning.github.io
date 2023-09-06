@@ -12,11 +12,17 @@ The reading group is co-ordinated by,
 
 Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/robotlearningrg). If you have trouble joining it, please reach out to Rutav Shah (rutavms@utexas.edu) or Sarah Etter (etter@utexas.edu).
 
+### Upcoming Reading Group
+
+- Presenter: Albert Yu
+- Paper: [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io)
+- Date : **09/11**  
+- Venue: **GDC 3.516**
+- Time: **4:00 to 5:30pm**
+- Zoom: Link
+
 ### Quick Links
 
-- Venue: **GDC 3.516**
-- Time: **TBD**
-- Zoom: Link
 - [Slack](https://join.slack.com/t/utrobotlearni-tkj9668/shared_invite/zt-22fn4xq3r-_AWCeeFn1gJO6m1R10IlIw)
 - [Join Emailing List](https://utlists.utexas.edu/sympa/info/robotlearningrg)
 
