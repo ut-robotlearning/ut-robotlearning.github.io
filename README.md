@@ -19,12 +19,12 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 - Date : **09/11**  
 - Venue: **GDC 3.516**
 - Time: **4:00 to 5:30pm**
-- Zoom: Link
+- Zoom: Shared via Email.
 
-### Quick Links
+<!-- ### Quick Links
 
 - [Slack](https://join.slack.com/t/utrobotlearni-tkj9668/shared_invite/zt-22fn4xq3r-_AWCeeFn1gJO6m1R10IlIw)
-- [Join Emailing List](https://utlists.utexas.edu/sympa/info/robotlearningrg)
+- [Join Emailing List](https://utlists.utexas.edu/sympa/info/robotlearningrg) -->
 
 <!-- ## Logistics (Fall 2022) -->
 <!-- This semester we are hosting long-form tutorial-style sessions on various topics. -->
