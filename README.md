@@ -53,7 +53,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2023.09.11]``  
 **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**  
 Presenter: Albert Yu  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/r492ykq1vs7clzi3gb29yjk3bponyqfe)
 
 ### Spring 2023
 
