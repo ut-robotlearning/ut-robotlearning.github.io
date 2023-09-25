@@ -21,6 +21,8 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 - Time: **4:00 to 5:30pm**
 - Zoom: Shared via Email.
 
+You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=0) for a *tentative* schedule of future reading group sessions.
+
 <!-- ### Quick Links
 
 - [Slack](https://join.slack.com/t/utrobotlearni-tkj9668/shared_invite/zt-22fn4xq3r-_AWCeeFn1gJO6m1R10IlIw)
