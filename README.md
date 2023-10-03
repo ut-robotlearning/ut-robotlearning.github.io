@@ -14,9 +14,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Arthur Zhang
-- Paper: [GNM: A General Navigation Model to Drive Any Robot](https://arxiv.org/abs/2210.03370)
-- Date : **09/25**  
+- Presenter: Yuqi Xie
+- Paper: [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org)
+- Date : **10/09**  
 - Venue: **GDC 4.304**
 - Time: **4:00 to 5:30pm**
 - Zoom: Shared via Email.
@@ -51,6 +51,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2023
+
+``[2023.09.25]``  
+**GNM: A General Navigation Model to Drive Any Robot**  
+Presenter: Arthur Zhang  
+[[Slides]]()
 
 ``[2023.09.11]``  
 **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**  
