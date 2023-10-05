@@ -55,7 +55,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2023.09.25]``  
 **GNM: A General Navigation Model to Drive Any Robot**  
 Presenter: Arthur Zhang  
-[[Slides]]()
+[[Slides]](https://docs.google.com/presentation/d/1sOyOgaUxCUcRhtF6BtS6FPQGRzdmSA-f/edit?usp=sharing&ouid=110398981026297671458&rtpof=true&sd=true)
 
 ``[2023.09.11]``  
 **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**  
