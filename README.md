@@ -54,7 +54,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2023.10.23]``  
 **Code as Policies: Language Model Programs for Embodied Control**  
 Presenter: Zichao Hu  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/mbupoeeww3ynyv2x6qmv8i9nzlbal0oe)
 
 ``[2023.10.09]``  
 **Voyager: An Open-Ended Embodied Agent with Large Language Models**  
