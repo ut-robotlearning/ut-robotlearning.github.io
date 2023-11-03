@@ -52,7 +52,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ### Fall 2023
 ``[2023.10.23]``  
-**Voyager: Code as Policies: Language Model Programs for Embodied Control**  
+**Code as Policies: Language Model Programs for Embodied Control**  
 Presenter: Zichao Hu  
 [[Slides]]()
 
