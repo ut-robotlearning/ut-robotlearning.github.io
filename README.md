@@ -14,8 +14,8 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: TBD
-- Paper: TBD
+- Presenter: Jierui Li
+- Paper: [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
 - Date: **11/27**  
 - Venue: **GDC 4.304**
 - Time: **4:00 to 5:30pm**
