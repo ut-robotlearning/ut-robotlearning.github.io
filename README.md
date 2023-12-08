@@ -14,10 +14,10 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Jierui Li
-- Paper: [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
-- Date: **11/27**  
-- Venue: **GDC 4.304**
+- Presenter: Yue Zhao
+- Paper: [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/abs/2312.00785)
+- Date: **12/11**  
+- Venue: **GDC 3.516**
 - Time: **4:00 to 5:30pm**
 - Zoom: Shared via Email.
 
@@ -51,6 +51,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2023
+
+``[2023.11.27]``  
+**Code Llama: Open Foundation Models for Code**  
+Presenter: Jierui Li  
+[[Slides]]()
 
 ``[2023.11.06]``  
 **Generative Agents: Interactive Simulacra of Human Behavior**  
