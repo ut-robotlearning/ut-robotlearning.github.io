@@ -14,11 +14,11 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Yue Zhao
-- Paper: [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/abs/2312.00785)
-- Date: **12/11**  
-- Venue: **GDC 3.516**
-- Time: **4:00 to 5:30pm**
+- Presenter: TBD
+- Paper: TBD
+- Date: TBD  
+- Venue: TBD
+- Time: TBD
 - Zoom: Shared via Email.
 
 You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=0) for a *tentative* schedule of future reading group sessions.
@@ -51,6 +51,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2023
+
+``[2023.12.11]``  
+**Sequential Modeling Enables Scalable Learning for Large Vision Models**  
+Presenter: Yue Zhao  
+[[Slides]]()
 
 ``[2023.11.27]``  
 **Code Llama: Open Foundation Models for Code**  
