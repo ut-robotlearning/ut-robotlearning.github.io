@@ -55,7 +55,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2023.12.11]``  
 **Sequential Modeling Enables Scalable Learning for Large Vision Models**  
 Presenter: Yue Zhao  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/tgff58v09jyme7p2i20j9jkkha9okkwp)
 
 ``[2023.11.27]``  
 **Code Llama: Open Foundation Models for Code**  
