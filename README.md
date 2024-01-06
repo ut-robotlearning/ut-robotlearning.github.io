@@ -60,12 +60,12 @@ Presenter: Yue Zhao
 ``[2023.11.27]``  
 **Code Llama: Open Foundation Models for Code**  
 Presenter: Jierui Li  
-[[Slides]]()
+[[Slides]](https://arxiv.org/abs/2308.12950)
 
 ``[2023.11.06]``  
 **Generative Agents: Interactive Simulacra of Human Behavior**  
 Presenter: Caroline Wang  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/aiwi55y2094q43iz2yxd2wsm55ilve33)
 
 ``[2023.10.23]``  
 **Code as Policies: Language Model Programs for Embodied Control**  
