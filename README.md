@@ -16,12 +16,12 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 - Presenter: TBD
 - Paper: TBD
-- Date: TBD  
-- Venue: TBD
-- Time: TBD
+- Date: 2/12/2024  
+- Venue: GDC 4.304
+- Time: 4:00 to 5.30 pm
 - Zoom: Shared via Email.
 
-You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=0) for a *tentative* schedule of future reading group sessions.
+You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=1629412973) for a *tentative* schedule of future reading group sessions.
 
 <!-- ### Quick Links
 
@@ -49,6 +49,10 @@ This group is currently maintained by [Soroush Nasiriany](http://snasiriany.me/)
 please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list. -->
 
 ## Reading list
+
+### Spring 2024
+
+TBD
 
 ### Fall 2023
 
