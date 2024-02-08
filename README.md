@@ -15,9 +15,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: TBD
-- Paper: TBD
-- Date: 2/12/2024  
+- Presenter: Shivin Dass
+- Paper: [OK-Robot: An open, modular framework for zero-shot, language-conditioned pick-and-drop tasks in arbitrary homes](https://ok-robot.github.io/)
+- Date: 2/26/2024  
 - Venue: GDC 4.304
 - Time: 4:00 to 5.30 pm
 - Zoom: Shared via Email.
