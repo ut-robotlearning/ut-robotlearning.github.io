@@ -15,9 +15,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Shivin Dass
-- Paper: [OK-Robot: An open, modular framework for zero-shot, language-conditioned pick-and-drop tasks in arbitrary homes](https://ok-robot.github.io/)
-- Date: 2/26/2024  
+- Presenter: Zichao Hu
+- Paper: [Vison-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
+- Date: 3/18/2024  
 - Venue: GDC 4.304
 - Time: 4:00 to 5.30 pm
 - Zoom: Shared via Email.
@@ -53,7 +53,10 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ### Spring 2024
 
-TBD
+``[2024.2.26]``  
+**OK-Robot: An open, modular framework for zero-shot, language-conditioned pick-and-drop tasks in arbitrary homes**  
+Presenter: Shivin Dass  
+[[Slides]](https://docs.google.com/presentation/d/1rzdsD-Df79fvuYQ_saMu1orzS7II2G_6R65cX0wJR84/edit?usp=sharing)
 
 ### Fall 2023
 
