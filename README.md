@@ -15,9 +15,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Zichao Hu
-- Paper: [Vison-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
-- Date: 3/18/2024  
+- Presenter: Arpit Bahety
+- Paper: [AutoRT: Embodied Foundation Models for Large-Scale Orchestration of Robotic Agents](https://arxiv.org/abs/2401.12963)
+- Date: 3/25/2024  
 - Venue: GDC 4.304
 - Time: 4:00 to 5.30 pm
 - Zoom: Shared via Email.
@@ -52,6 +52,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2024
+
+``[2024.3.18]``  
+**Vison-Language Foundation Models as Effective Robot Imitators**  
+Presenter: Zichao Hu  
+[[Slides]]()
 
 ``[2024.2.26]``  
 **OK-Robot: An open, modular framework for zero-shot, language-conditioned pick-and-drop tasks in arbitrary homes**  
