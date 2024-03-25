@@ -56,7 +56,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2024.3.18]``  
 **Vison-Language Foundation Models as Effective Robot Imitators**  
 Presenter: Zichao Hu  
-[[Slides]]()
+[[Slides]](https://docs.google.com/presentation/d/1UE7FUufFP96nT-X-BJK-F15xv9gwrz4wDkkS23PPynA/edit?usp=sharing)
 
 ``[2024.2.26]``  
 **OK-Robot: An open, modular framework for zero-shot, language-conditioned pick-and-drop tasks in arbitrary homes**  
