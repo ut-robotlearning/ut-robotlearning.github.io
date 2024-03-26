@@ -16,8 +16,8 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 ### Upcoming Reading Group
 
 - Presenter: Arpit Bahety
-- Paper: [AutoRT: Embodied Foundation Models for Large-Scale Orchestration of Robotic Agents](https://arxiv.org/abs/2401.12963)
-- Date: 3/25/2024  
+- Paper: [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://sayplan.github.io/)
+- Date: 4/8/2024  
 - Venue: GDC 4.304
 - Time: 4:00 to 5.30 pm
 - Zoom: Shared via Email.
@@ -52,6 +52,11 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2024
+
+``[2024.3.25]``  
+**AutoRT: Embodied Foundation Models for Large-Scale Orchestration of Robotic Agents**  
+Presenter: Arpit Bahety  
+[[Slides]]()
 
 ``[2024.3.18]``  
 **Vison-Language Foundation Models as Effective Robot Imitators**  
