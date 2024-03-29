@@ -15,7 +15,7 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Arpit Bahety
+- Presenter: Mingyo Seo
 - Paper: [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://sayplan.github.io/)
 - Date: 4/8/2024  
 - Venue: GDC 4.304
@@ -56,7 +56,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2024.3.25]``  
 **AutoRT: Embodied Foundation Models for Large-Scale Orchestration of Robotic Agents**  
 Presenter: Arpit Bahety  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/9deei9uyt7ep981327c7f18enhvcc58y)
 
 ``[2024.3.18]``  
 **Vison-Language Foundation Models as Effective Robot Imitators**  
