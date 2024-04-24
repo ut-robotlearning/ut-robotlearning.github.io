@@ -11,15 +11,15 @@ The reading group is co-ordinated by,
 
 ### Want to join us?
 
-Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/robotlearningrg). If you have trouble joining it, please reach out to Rutav Shah (rutavms@utexas.edu) or Sarah Etter (etter@utexas.edu).
+Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/robotlearningrg). If you have trouble joining it, please reach out to Rutav Shah (rutavms@utexas.edu).
 
 ### Upcoming Reading Group
 
-- Presenter: Amanda Adkins
-- Paper: [Gaussian Splatting SLAM (Visual Odometry)](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
-- Date: 4/22/2024  
-- Venue: GDC 4.304
-- Time: 4:00 to 5.30 pm
+- Presenter: Yining Hong
+- Topic: Building Embodied 3D Foundation Models
+- Date: 05/02/2024  
+- Venue: GDC 3.516
+- Time: 10:00 to 11.00 am
 - Zoom: Shared via Email.
 
 You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=1629412973) for a *tentative* schedule of future reading group sessions.
@@ -51,7 +51,12 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ## Reading list
 
-### Spring 2024
+### Spring 2024  
+``[2024.04.22]``  
+**Gaussian Splatting SLAM (Visual Odometry)**  
+Presenter: Amanda Adkins  
+[[Slides]](https://docs.google.com/presentation/d/1wQOQLVGcyMerGtFrYhCflibX4SHGYwlZlND8jiJgFwA/edit?usp=sharing)
+
 ``[2024.04.08]``  
 **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning**  
 Presenter: Mingyo Seo  
