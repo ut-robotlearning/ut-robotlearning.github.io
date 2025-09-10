@@ -4,6 +4,7 @@ The UT Robot Learning Reading Group meets to discuss the latest papers in robot 
 This semester (Spring '24), the reading group will focus on the intersection of Robot Learning and Foundation Models. We will discuss one paper every two weeks, preparing 30-minute presentations with 30 minutes of Q&A, and optional discussion time (30 minutes). 
 
 The reading group is co-ordinated by,
+- Fall'25: [Rutav Shah](https://shahrutav.github.io), [Zi-ang Cao](https://scholar.google.com/citations?user=TkiMCGoAAAAJ&hl=en&authuser=8), [Yu Lei](https://scholar.google.com/citations?user=k7_-biMAAAAJ&hl=en), [Shuijing Liu](https://shuijing725.github.io/) [[RPL](https://rpl.cs.utexas.edu/) Lab]
 - Spring'24: [Rutav Shah](https://shahrutav.github.io) [[RPL](https://rpl.cs.utexas.edu/) Lab] and [Arthur Zhang](https://www.arthurkzhang.com/#/) [[AMRL](https://amrl.cs.utexas.edu) Lab].
 - Fall'23: [Rutav Shah](https://shahrutav.github.io) [[RPL](https://rpl.cs.utexas.edu/) Lab] and Sarah Etter [[AMRL](https://amrl.cs.utexas.edu) Lab].
 - Fall'22 - Spring'23: [Rutav Shah](https://shahrutav.github.io) and [Soroush Nasiriany](https://snasiriany.me) [[RPL](https://rpl.cs.utexas.edu/) Lab].
@@ -15,14 +16,16 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Yining Hong
-- Topic: Building Embodied 3D Foundation Models
-- Date: 05/02/2024  
+- Presenter: Siqi Shang
+- Topic: Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper
+- Date: 09/30/2025 [Tuesday]
 - Venue: GDC 3.516
-- Time: 10:00 to 11.00 am
+- Time: 4:00 to 5.00 pm
 - Zoom: Shared via Email.
 
-You can view this [spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=1629412973) for a *tentative* schedule of future reading group sessions.
+You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?gid=892682410#gid=892682410) for a *tentative* schedule of future reading group sessions.
+
+archieved: [old spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=1629412973)
 
 <!-- ### Quick Links
 
