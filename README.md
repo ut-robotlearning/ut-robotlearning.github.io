@@ -16,7 +16,7 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Andrea Bajcsy
+- Presenter: Arpit Bahety
 - Topic: Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis
 - Date: 09/16/2025 [Tuesday]
 - Venue: GDC 3.516
