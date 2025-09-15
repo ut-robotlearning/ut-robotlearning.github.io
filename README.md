@@ -16,12 +16,19 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
+- Presenter: Andrea Bajcsy
+- Topic: Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis
+- Date: 09/16/2025 [Tuesday]
+- Venue: GDC 3.516
+- Time: 4:00 to 5.00 pm
+- Zoom: Shared via Email.
+
 - Presenter: Siqi Shang
 - Topic: Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper
 - Date: 09/30/2025 [Tuesday]
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
-- Zoom: Shared via Email.
+- Zoom: To be shared via Email.
 
 You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?gid=892682410#gid=892682410) for a *tentative* schedule of future reading group sessions.
 
