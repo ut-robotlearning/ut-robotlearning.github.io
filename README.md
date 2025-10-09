@@ -16,9 +16,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Siqi Shang
-- Topic: Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper
-- Date: 09/30/2025 [Tuesday]
+- Presenter: Rajat Kumar Jenamani
+- Topic: Towards Deployable Physical Caregiving Robots that Personalize
+- Date: 10/14/2025 [Tuesday]
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
@@ -60,6 +60,13 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 Presenter: Arpit Bahety  
 [[Slides]](https://drive.google.com/file/d/1BQE7LsMupes4DLE2wqtMmvXGdhOjrNpk/view?usp=sharing)
 [[PDF]](https://drive.google.com/file/d/1enuhK5PAvFp_N5TV4YCukV-ty40JraUh/view?usp=sharing)
+
+``[2025.09.30]``  
+**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**  
+Presenter: Siqi Shang
+[[Slides]](https://drive.google.com/file/d/1BQE7LsMupes4DLE2wqtMmvXGdhOjrNpk/view?usp=sharing)
+[[PDF]](https://drive.google.com/file/d/1enuhK5PAvFp_N5TV4YCukV-ty40JraUh/view?usp=sharing)
+
 
 
 ### Spring 2024  
