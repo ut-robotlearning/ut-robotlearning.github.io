@@ -16,9 +16,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Rajat Kumar Jenamani
-- Topic: Towards Deployable Physical Caregiving Robots that Personalize
-- Date: 10/14/2025 [Tuesday]
+- Presenter: Rutav
+- Topic: On the Biology of a Large Language Model
+- Date: 10/28/2025 [Tuesday]
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
