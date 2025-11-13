@@ -16,12 +16,32 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group
 
-- Presenter: Rutav
-- Topic: On the Biology of a Large Language Model
-- Date: 10/28/2025 [Tuesday]
+- Presenter: Arthur
+- Topic: Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies
+- Date: 11/18/2025 [Tuesday]
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
+
+<!-- 
+- Presenter: Kun Lei
+- Topic: RL-100
+- Date: 11/18/2025 [Tuesday]
+- Venue: Zoom
+- Time: 8:30 to 9:30 pm
+- Zoom: To be shared via Email. 
+-->
+
+
+<!-- 
+- Presenter: Lujie Yang
+- Topic: OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction  
+- Date: 12/9/2025 [Tuesday]
+- Venue: GDC 3.516
+- Time: 4:00 to 5.00 pm
+- Zoom: To be shared via Email. 
+-->
+
 
 You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?gid=892682410#gid=892682410) for a *tentative* schedule of future reading group sessions.
 
@@ -55,18 +75,23 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2025
+``[2025.10.28]``  
+**On the Biology of a Large Language Model**  
+Presenter: Rutav Shah  
+[[Blog]](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+
+
+``[2025.09.30]``  
+**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**  
+Presenter: Siqi Shang  
+[[Slides]](https://drive.google.com/file/d/15NGK_X52cOdSsrucQ7vcTnwRTHi2IOtR/view?usp=drive_link)
+
+
 ``[2025.09.16]``  
 **Generalizing Safety Beyond Collision-Avoidance via Latent-Space Reachability Analysis**  
 Presenter: Arpit Bahety  
 [[Slides]](https://drive.google.com/file/d/1BQE7LsMupes4DLE2wqtMmvXGdhOjrNpk/view?usp=sharing)
 [[PDF]](https://drive.google.com/file/d/1enuhK5PAvFp_N5TV4YCukV-ty40JraUh/view?usp=sharing)
-
-``[2025.09.30]``  
-**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**  
-Presenter: Siqi Shang
-[[Slides]](https://drive.google.com/file/d/1BQE7LsMupes4DLE2wqtMmvXGdhOjrNpk/view?usp=sharing)
-[[PDF]](https://drive.google.com/file/d/1enuhK5PAvFp_N5TV4YCukV-ty40JraUh/view?usp=sharing)
-
 
 
 ### Spring 2024  
