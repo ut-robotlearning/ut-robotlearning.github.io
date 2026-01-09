@@ -14,11 +14,11 @@ The reading group is co-ordinated by,
 
 Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/robotlearningrg). If you have trouble joining it, please reach out to Rutav Shah (rutavms@utexas.edu).
 
-### Upcoming Reading Group
+### Upcoming Reading Group (Spring 2026)
 
-- Presenter: Arthur
-- Topic: Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies
-- Date: 11/18/2025 [Tuesday]
+- Presenter: TBD
+- Topic: TBD
+- Date: TBD
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
@@ -75,6 +75,22 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Fall 2025
+``[2025.12.9]``  
+**OmniRetarget + Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**  
+Presenter: Lujie Yang  
+[[Paper-1]](https://arxiv.org/pdf/2509.26633)
+[[Paper-2]](https://arxiv.org/pdf/2502.20382)
+
+``[2025.12.2]``  
+**RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning**  
+Presenter: Kun Lei  
+[[Paper]](https://arxiv.org/pdf/2510.14830)
+
+``[2025.11.18]``  
+**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**  
+Presenter: Arthur  
+[[Paper]](https://arxiv.org/pdf/2508.20072)
+
 ``[2025.10.28]``  
 **On the Biology of a Large Language Model**  
 Presenter: Rutav Shah  
@@ -85,6 +101,7 @@ Presenter: Rutav Shah
 **Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**  
 Presenter: Siqi Shang  
 [[Slides]](https://drive.google.com/file/d/15NGK_X52cOdSsrucQ7vcTnwRTHi2IOtR/view?usp=drive_link)
+[[Paper]](https://arxiv.org/pdf/2507.15062)
 
 
 ``[2025.09.16]``  
@@ -92,7 +109,7 @@ Presenter: Siqi Shang
 Presenter: Arpit Bahety  
 [[Slides]](https://drive.google.com/file/d/1BQE7LsMupes4DLE2wqtMmvXGdhOjrNpk/view?usp=sharing)
 [[PDF]](https://drive.google.com/file/d/1enuhK5PAvFp_N5TV4YCukV-ty40JraUh/view?usp=sharing)
-
+[[Paper]](https://arxiv.org/pdf/2502.00935)
 
 ### Spring 2024  
 ``[2024.04.22]``  
