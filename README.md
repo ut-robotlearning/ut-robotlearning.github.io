@@ -1,7 +1,7 @@
 ## About
-The UT Robot Learning Reading Group meets to discuss the latest papers in robot learning. We follow the latest robotics and embodied AI papers, spanning computer vision, reinforcement learning, neuro-symbolic AI, foundation models, and control. We survey papers from a broad set of conferences, including (but not limited to) CoRL, RSS, and CVPR.
+The UT Robot Learning Reading Group meets to discuss the latest papers in robot learning. We follow the latest robotics and embodied AI papers, spanning computer vision, reinforcement learning, foundation models, and control. We survey papers from a broad set of conferences, including (but not limited to) CoRL, RSS, ICLR, etc.
 
-This semester (Fall '25), the reading group will focus on the intersection of Robot Learning and Foundation Models. We will discuss one paper every two weeks, preparing 30-minute presentations with 30 minutes of Q&A, and optional discussion time (30 minutes). 
+This semester (Spring '26), the reading group will focus on the intersection of Robot Learning and Foundation Models. We will discuss one paper every two weeks, preparing 45-minute presentations with 15 minutes of Q&A. 
 
 The reading group is co-ordinated by,
 - Fall'25: [Rutav Shah](https://shahrutav.github.io), [Zi-ang Cao](https://scholar.google.com/citations?user=TkiMCGoAAAAJ&hl=en&authuser=8), [Yu Lei](https://scholar.google.com/citations?user=k7_-biMAAAAJ&hl=en), [Shuijing Liu](https://shuijing725.github.io/) [[RPL](https://rpl.cs.utexas.edu/) Lab]
@@ -16,9 +16,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group (Spring 2026)
 
-- Presenter: TBD
-- Topic: TBD
-- Date: TBD
+- Presenter: Mina Huh
+- Topic: Human Robot Interaction
+- Date: 2/9/2026
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
