@@ -16,34 +16,15 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group (Spring 2026)
 
-- Presenter: Mina Huh
-- Topic: Human Robot Interaction
-- Date: 2/9/2026
+- Presenter: Jiamin T
+- Topic: Efficient Vision-Language-Action Models
+- Date: 2/23/2026
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
 
-<!-- 
-- Presenter: Kun Lei
-- Topic: RL-100
-- Date: 11/18/2025 [Tuesday]
-- Venue: Zoom
-- Time: 8:30 to 9:30 pm
-- Zoom: To be shared via Email. 
--->
 
-
-<!-- 
-- Presenter: Lujie Yang
-- Topic: OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction  
-- Date: 12/9/2025 [Tuesday]
-- Venue: GDC 3.516
-- Time: 4:00 to 5.00 pm
-- Zoom: To be shared via Email. 
--->
-
-
-You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?gid=892682410#gid=892682410) for a *tentative* schedule of future reading group sessions.
+You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?usp=sharing) for a *tentative* schedule of future reading group sessions.
 
 archieved: [old spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit#gid=1629412973)
 
@@ -73,6 +54,13 @@ This group is currently maintained by [Soroush Nasiriany](http://snasiriany.me/)
 please contact him at *{his_first_name}@cs.utexas.edu* to be added to the internal mailing list. -->
 
 ## Reading list
+
+### Spring 2026
+
+``[2026.02.09]``  
+**Toward Accessible Robot Task Communication**  
+Presenter: Mina Huh  
+[[Slides]]()
 
 ### Fall 2025
 ``[2025.12.9]``  
