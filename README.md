@@ -16,8 +16,8 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group (Spring 2026)
 
-- Presenter: Jiamin T
-- Topic: Efficient Vision-Language-Action Models
+- Presenter:  Irmak Guzey 
+- Topic: Dexterous Manipulation
 - Date: 2/23/2026
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
