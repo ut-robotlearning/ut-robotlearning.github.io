@@ -16,9 +16,9 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group (Spring 2026)
 
-- Presenter:  Irmak Guzey 
-- Topic: Dexterous Manipulation
-- Date: 2/23/2026
+- Presenter: Jiamin T
+- Topic: Efficient Vision-Language-Action Models
+- Date: 3/9/2026
 - Venue: GDC 3.516
 - Time: 4:00 to 5.00 pm
 - Zoom: To be shared via Email.
@@ -57,10 +57,15 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 
 ### Spring 2026
 
+``[2026.02.23]``  
+**Dexterous Manipulation**  
+Presenter: Irmak Guzey  
+[[Slides]]()
+
 ``[2026.02.09]``  
 **Toward Accessible Robot Task Communication**  
 Presenter: Mina Huh  
-[[Slides]]()
+[[Slides]](https://utexas.box.com/s/2wc7gam8sh88lxp5bt337filu6jqc41i)
 
 ### Fall 2025
 ``[2025.12.9]``  
