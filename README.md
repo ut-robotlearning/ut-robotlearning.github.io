@@ -58,8 +58,8 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ### Spring 2026
 
 ``[2026.03.09]``  
-**Efficient Vision-Language-Action Models**  
-Presenter: Jiamin Tang 
+**Real-Time Vision-Language-Action Models**  
+Presenter: Jiamin Tang  
 [[Video]](https://youtu.be/IRva9O4EX98?si=QG1t0oQtklDbzM5B)
 
 ``[2026.02.23]``  
