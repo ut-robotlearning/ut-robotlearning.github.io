@@ -16,13 +16,12 @@ Please subscribe to the [emailing list](https://utlists.utexas.edu/sympa/info/ro
 
 ### Upcoming Reading Group (Spring 2026)
 
-- Presenter: Idan Shenfeld Amit
-- Topic: Self Distillation Enables Continual Learning
-- Date: 4/20/2026
+- Presenter: Simar Kareer
+- Topic: Teaching robots using egocentric human experience
+- Date: Monday, May 4, 2026
 - Venue: GDC 3.516
-- Time: 4:00 to 5.00 pm
-- Zoom: To be shared via Email.
-
+- Time: 4:00 to 5:00 pm
+- Zoom: To be shared via email.
 
 You can view this [new spreadsheet](https://docs.google.com/spreadsheets/d/15APTTnSzu8Ndn0eeb4vNp4ROvQS5sPb4oJeiQcnzBUI/edit?usp=sharing) for a *tentative* schedule of future reading group sessions.
 
@@ -56,6 +55,10 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ## Reading list
 
 ### Spring 2026
+
+``[2026.04.20]``  
+**Self Distillation Enables Continual Learning**  
+Presenter: Idan Shenfeld Amit  
 
 ``[2026.03.23]``  
 **Efficient Evaluation of Multi-Task Robot Policies**  
