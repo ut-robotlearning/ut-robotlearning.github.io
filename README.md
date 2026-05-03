@@ -59,10 +59,12 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ``[2026.04.20]``  
 **Self Distillation Enables Continual Learning**  
 Presenter: Idan Shenfeld Amit  
+[[Video]](https://youtu.be/p_o9SoRe8bA?si=jmFM4FDUWQg1hSyB)
 
 ``[2026.03.23]``  
 **Efficient Evaluation of Multi-Task Robot Policies**  
 Presenter: Abrar Anwar  
+[[Video]](https://youtu.be/amol6svala4)
 
 ``[2026.03.09]``  
 **Real-Time Vision-Language-Action Models**  
