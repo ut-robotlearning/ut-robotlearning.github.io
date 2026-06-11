@@ -57,7 +57,7 @@ please contact him at *{his_first_name}@cs.utexas.edu* to be added to the intern
 ### Spring 2026
 
 ``[2026.05.04]``  
-**Teaching robots using egocentric human experience**  
+**Teaching Robots using Egocentric Human Experience**  
 Presenter: Simar Kareer  
 [[Video]](https://youtu.be/4t9OeOlNxYE)
 
